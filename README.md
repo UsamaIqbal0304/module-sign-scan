@@ -180,6 +180,10 @@ What this means if you ship a signed module
      sees as a log line, and an OEM can get ahead of.
 ```
 
+## The same finding, written up
+
+The output above, the four verification modes, the signature state each one refuses, and the log lines a station writes, is also a page: <https://plantroomlabs.com/tools/module-sign-scan/>. It carries this run, the download with its size and SHA-256, and the note explaining the reasoning.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
