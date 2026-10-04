@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Usama Iqbal (Plantroom Labs)
 """What a Niagara station does with a module's signature, read from bytecode.
 
 Reads com.tridium.nre.security.ModuleVerificationMode out of nre.jar,
